@@ -10,9 +10,15 @@
 
     header{
         
-        h3{
-            font-size: 1.7rem;
-            padding:0.3em 0.75em;
+        #logo{
+            height: 75px;
+            // border-bottom: 1px solid var(--light-text-color);;
+            svg{
+                height: 100%;
+                fill: var(--light-text-color);
+                padding: 0.5em;
+                margin: auto;
+            }
         }
     }
     .top-menu{
