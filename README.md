@@ -1,3 +1,20 @@
-# admin-dashboard
+# Admin Dashboard
+Another project of [TheOdinProject](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard) to Practice some concepts related to grid and flexbox.
 
-wanted to add more functionalities but I want to learn upcoming lessons, that's why to safe time upto the requirement only, maybe I will add desired functionality in near future or maybe I will remain busy in other project. 
+## Learning Outcomes Summary
+- Grid System
+  - Grid container
+  - Grid tracks, lines and cells
+  - Diff between implicit and explicit grid
+  - `fr` `repeat()` `auto-fit` `auto-fill` `minmax()`
+- Flexbox vs Grid
+
+## About This Project
+This is a simple Admin Dashboard.
+
+## Preview
+**Live:** https://szmazhr.github.io/admin-dashboard/
+![Admin Dashboard](./img/admin-dashboard.png 'Admin Dashboard | Shahzar Mazhar')
+
+## Note
+The outcomes listed above are not necessarily used in the project. They are just a summary of what I learned, through TheOdinProject's Curriculum, between previous project and the current one.
