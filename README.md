@@ -1,5 +1,5 @@
 # Admin Dashboard
-Another project of [TheOdinProject](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard) to Practice some concepts related to grid and flexbox.
+Another project [Admin Dashboard](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard) from [TheOdinProject](https://www.theodinproject.com) to Practice some concepts related to grid and flexbox.
 
 ## Learning Outcomes Summary
 - Grid System
